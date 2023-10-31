@@ -1,0 +1,46 @@
+#header-container
+{
+    width: 100%;
+    height: 10%;
+    background-color: #f1f1f1;
+    
+}
+
+#left-container
+{
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: #f1f1f1;
+}
+
+#right-container
+{
+    float: right;
+    width: 80%;
+    height: 100%;
+    background-color: #f1f1f1;
+}
+
+#personality-container
+{
+    float: left;
+    width: 100%;
+    height: 50%;
+    background-color: #f1f1f1;
+}
+
+#prompt-container
+{
+    float: right;
+    width: 100%;
+    height: 50%;
+    background-color: #f1f1f1;
+}
+
+#advisor-container
+{
+    width: 100%;
+    height: 20%;
+    background-color: #f1f1f1;
+}
